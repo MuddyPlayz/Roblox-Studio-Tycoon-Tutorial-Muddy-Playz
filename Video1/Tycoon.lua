@@ -17,3 +17,4 @@ function Tycoon.new(player)
 	
 	return self
 end
+ 
